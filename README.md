@@ -142,7 +142,7 @@ powerbi-sales-analytics-dashboard/
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/ahmad-abu-zayyad-897b922a4/?originalSubdomain=jo
+- LinkedIn: www.linkedin.com/in/ahmad-abu-zayyad-897b922a4
 - Email: ahmadabuzayad9@gmail.com
 
 
