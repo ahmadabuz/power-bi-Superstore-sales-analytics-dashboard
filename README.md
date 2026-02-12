@@ -2,7 +2,7 @@
 
 Interactive sales performance dashboard built with Power BI to analyze retail data and uncover actionable business insights.
 
-![Dashboard Overview](screenshots/Screenshot 2026-02-13 004347.png)
+![Dashboard Overview](screenshots/overview.png)
 
 ## Project Overview
 
